@@ -1,0 +1,14 @@
+What I did today.
+
+1. 3 hours 30 mins: Morningclass on linux.
+2. 1 hour: Linux code practice.
+3. 3 hours: Revision of morning class.
+4. Created AWS account.
+
+
+Tomorrow's Task
+
+1. Create EC2 instance.
+2. Attend morning class.
+3. Linux code practice.
+4. Revision.

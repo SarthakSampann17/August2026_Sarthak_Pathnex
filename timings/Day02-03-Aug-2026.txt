@@ -1,0 +1,15 @@
+What I did today.
+
+1. 2 hours 30 mins: Morning class on linux.
+2. 2 hours: Watched ec2 in 20 mins video.
+3. Learned to created ec2 instance.
+4. 2 hours: Revision of morning session.
+5. 1 hour: linux code practice.
+
+
+Tomorrow's Task
+
+1. Attend morning class.
+2. Revision.
+3. Watch videos on GIT & GITHUB.
+4. Code practice.

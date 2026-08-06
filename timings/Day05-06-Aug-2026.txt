@@ -1,0 +1,16 @@
+What I did today.
+
+1. 3 hours 30 mins: Morning class on Git & GitHub.
+2. 1 hour: Watched Git & GitHub related videos.
+3. 1 hour 30 mins: Revision.
+4. 1 hour: Code Practice.
+5. 2 hours: Watched other videos related to Devops.
+
+
+Tomorrow's Task
+
+1. Attend morning class.
+2. Revision.
+3. Code practice.
+4. Watch videos related to Devops.
+

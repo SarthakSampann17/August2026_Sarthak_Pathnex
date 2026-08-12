@@ -1,0 +1,15 @@
+What I did today.
+
+1. 2 hours 30 mins: Morning class on Kubernetes.
+2. 1 hour: Code practice.
+3. 2 hour: Revision
+4. Intro Video 
+5. Watched Docker related videos to make comcept clear.
+
+
+Tomorrow's Task
+
+1. Attend morning class.
+2. Revision.
+3. Code practice.
+4. Watched videos about kubernetes.

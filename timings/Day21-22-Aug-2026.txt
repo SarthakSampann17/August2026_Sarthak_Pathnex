@@ -1,0 +1,16 @@
+What I did today.
+
+1. 3 hours: Morning class on Ansible.
+2. Code practice.
+3. Revision.
+4. Recorded Intro video.
+5. Git push.
+
+
+Tomorrow's task
+
+1. Attend morning class
+2. Do revision.
+3. Code practice.
+4. Record intro video.
+5. Do git push.

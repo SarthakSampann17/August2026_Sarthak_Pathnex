@@ -1,0 +1,17 @@
+What I did today.
+
+1. 3 hours: Attend morning class of Kafka.
+2. 2 hours: Revison.
+3. 1 hour: Code practice.
+4. Recorded Intro video.
+5. Youtube video comment.
+6. Git push.
+
+
+Tomorrow's task
+
+1. Attend morning class on SSL.
+2. Do revision.
+3. Self study.
+4. Do git push and youtube comment.
+5. Record intro video.

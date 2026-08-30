@@ -1,0 +1,15 @@
+What I did today.
+
+1. 2 hours: Attend morning class on SSL.
+2. 2 hours: Revision.
+3. 1 hour: Code practice.
+4. Recorded Intro video.
+5. Youtube video comment.
+6. Git Push.
+
+Tomorrow's task
+
+1. Attend morning class.
+2. Do revision.
+3. Do git push and youtube comment.
+4. Record intro video.

@@ -1,0 +1,45 @@
+# Ansible — Create User and Set Permissions
+- name: Create a new user
+  hosts: all
+  become: yes
+  tasks:
+    - name: Create user
+      user:
+        name: pathnex
+        state: present
+        shell: /bin/bash
+    - name: Set permissions for the user
+      file:
+        path: /home/pathnex
+        owner: pathnex
+        group: pathnex
+        mode: '0755'
+
+
+
+# Terraform — EC2 with Tags and Volume
+
+resource "aws_instance" "SarthakEC2" {
+  ami           = "ami-004d1eaf8eaa0107d"
+  instance_type = "t3.micro"
+  
+  tags = {
+    Name = "Sarthak-EC2"
+  }
+
+  ebs_block_device {
+    device_name = "/dev/sdh"
+    volume_size = 50
+  }
+}
+
+
+# Docker
+# Python Application
+print("Hello Sarthak")
+
+# Docker File
+FROM python:3.11
+WORKDIR /opt/sarthak/python-app
+COPY app.py .
+CMD ["python", "/opt/sarthak/python-app/app.py"]

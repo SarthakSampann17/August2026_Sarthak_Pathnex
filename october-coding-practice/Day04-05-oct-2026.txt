@@ -1,0 +1,46 @@
+Day 04 — Basic CI/CD Concepts with Jenkins & GitLab
+
+# Jenkinsfile - Basic CI Pipeline
+pipeline {
+  agent any
+  stages {
+    stage('Build') {
+      steps {
+        echo 'Building project'
+      }
+    }
+    stage('Test') {
+      steps {
+        echo 'Running tests'
+      }
+    }
+    stage('Deploy') {
+      steps {
+        echo 'Deploying application'
+      }
+    }
+  }
+}
+
+
+  # Gitlab CI/CD - Basic Pileline
+stages:
+  - build
+  - test
+  - deploy
+
+build:
+  stage: build
+  script:
+    - echo "Building project"
+
+test:
+  stage: test
+  srcipt:
+    - echo "Running tests"
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Deploying application"
+
